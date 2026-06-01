@@ -1,0 +1,37 @@
+header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: navy
+}
+nav {
+    background: #faf8f8;
+    padding: 0.7rem;
+    text-align: center;
+    position: sticky;
+    top: 0;
+}
+
+nav a {
+    color: #89ac1f;
+    margin: 0 1rem;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #8a08fc;
+}
+
+p {
+    font-weight: bold;
+    color: #333;
+}
+
+img-yoga{
+    width: 200px;
+    height:auto;
+}
+img-dance{
+    width: 200px;
+    height:auto;
+}
